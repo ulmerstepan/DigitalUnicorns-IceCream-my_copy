@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dariaddz.github.io/DigitalUnicorns-IceCream",
+  "homepage": "https://ulmerstepan.github.io/DigitalUnicorns-IceCream-my_copy",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /DigitalUnicorns-IceCream/"
+    "build": "parcel build src/*.html --public-url /DigitalUnicorns-IceCream-my_copy/"
   },
   "repository": {
     "type": "git",
